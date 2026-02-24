@@ -153,6 +153,8 @@ Measures scoring style and attacking intent.
 
 # 6️⃣ Screenshots / Demos
 
+Here’s a snapshot of the Virat Kohli Career Statistics Analytics Dashboard:(https://github.com/ANIKETT-07/-Virat-Kohli-Career-Analytics-Performance-Insights-Dashboard-Power-BI/blob/main/Virat%20Kohli%20Career%20Statistics%20Analysis%20Dashboard%20image.png)
+
 
 
 ---
